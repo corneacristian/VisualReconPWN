@@ -29,8 +29,6 @@ for i in range(50):
     randy = random.randint(3, height-3)
     pixdata_old1 = pixdata[randx, randy]
     pixdata_old2 = pixdata[randx+1, randy+1]
-    print(randx)
-    print(randy)
     pixdata_old3 = pixdata[randx+2, randy+1]
     pixdata[randx, randy] = color
     pixdata[randx+1, randy+1] = color
