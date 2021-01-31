@@ -22,3 +22,5 @@ It is able to generate 3 different sets of images:
 ## Increased Pixel Derivation
 ![example3.png](https://raw.githubusercontent.com/corneacristian/VisualReconPWN/main/example3.png)
 
+
+You can change the fuzzing colors by setting your RGBA value into the "color" global variable
