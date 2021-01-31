@@ -17,8 +17,8 @@ It is able to generate 3 different sets of images:
 ![example1.png](https://raw.githubusercontent.com/corneacristian/VisualReconPWN/main/example1.png)
 
 ## Random Pixel Derivation
-
+![example2.png](https://raw.githubusercontent.com/corneacristian/VisualReconPWN/main/example2.png)
 
 ## Increased Pixel Derivation
-
+![example3.png](https://raw.githubusercontent.com/corneacristian/VisualReconPWN/main/example3.png)
 
